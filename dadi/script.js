@@ -16,7 +16,7 @@ if(primoNumeroCasuale > secondoNumeroCasuale){
 
 }
 
-console.log(primoNumeroCasuale,secondoNumeroCasuale);
+console.log(primoNumeroCasuale + 'giocatore uno',secondoNumeroCasuale + 'giocatore due');
 
 
 
